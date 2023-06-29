@@ -1,18 +1,8 @@
 -- import: fastn
+-- fastn.package: fastn-portfolio
+-- fastn.dependency: fifthtry.github.io/doc-site 
+-- fastn.dependency: gargajit.github.io/expander
+-- fastn.dependency: fifthtry.github.io/admonitions
+-- fastn.dependency: fastn-community.github.io/winter-cs
 
--- fastn.package: nishantjain10.github.io/fastn-template-portfolio
-favicon: /-/nishantjain10.github.io/fastn-template-portfolio/favicon.ico
-
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
-
--- fastn.auto-import: nishantjain10.github.io/fastn-template-portfolio/FASTN/ds
--- fastn.auto-import: nishantjain10.github.io/fastn-template-portfolio/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: fastn-portfolio/assets
