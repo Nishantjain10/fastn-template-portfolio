@@ -2,9 +2,16 @@
 -- import: gargajit.github.io/expander as e
 -- import: fifthtry.github.io/admonitions as cbox
 -- import: fastn-community.github.io/winter-cs
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+-- import: package/toast as toast
+-- import: package/lib as lib
+-- import: package/button as button
+-- import: package/social-buttons as social
 
 
 -- ds.page: Hello, I’m Nishant Jain.
+/site-logo: $assets.files.images.logo.svg 
 /colors: $winter-cs.main
 /height: fill-container
 
@@ -33,5 +40,31 @@ My work primarily consists of:
 
 I am proficient in Frontend Development using Technologies like:
 ReactJS, HTML, CSS/SCSS, JavaScript
+
+-- ftd.row:
+spacing.fixed.px: 10
+
+-- social.social-button-wrapper:
+link: https://www.linkedin.com/in/nishantj2002/
+image: $assets.files.assets.linkedin.png
+
+-- social.social-button-wrapper:
+link: https://twitter.com/devnishant10
+image: $assets.files.assets.twitter.png
+
+-- social.social-button-wrapper:
+link: https://github.com/nishantjain10
+image: $assets.files.assets.github.png
+
+-- social.social-button-wrapper:
+link: https://www.instagram.com/nishant.jain_10/
+image: $assets.files.assets.instagram.png
+
+-- social.social-button-wrapper:
+link: https://drive.google.com/file/d/1RUDX-HDdgsrd-XbBEj1Yv-VfWuW_lQMA/view?usp=sharing
+image: $assets.files.assets.clipboard.png
+
+
+-- end: ftd.row
 
 -- end: ds.page
