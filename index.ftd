@@ -46,23 +46,23 @@ spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
 link: https://www.linkedin.com/in/nishantj2002/
-image: $assets.files.linkedin.png
+image: $assets.files.assets.linkedin.png
 
 -- social.social-button-wrapper:
 link: https://twitter.com/devnishant10
-image: $assets.files.twitter.png
+image: $assets.files.assets.twitter.png
 
 -- social.social-button-wrapper:
 link: https://github.com/nishantjain10
-image: $assets.files.github.png
+image: $assets.files.assets.github.png
 
 -- social.social-button-wrapper:
 link: https://www.instagram.com/nishant.jain_10/
-image: $assets.files.instagram.png
+image: $assets.files.assets.instagram.png
 
 -- social.social-button-wrapper:
 link: https://drive.google.com/file/d/1RUDX-HDdgsrd-XbBEj1Yv-VfWuW_lQMA/view?usp=sharing
-image: $assets.files.clipboard.png
+image: $assets.files.assets.clipboard.png
 
 
 -- end: ftd.row
