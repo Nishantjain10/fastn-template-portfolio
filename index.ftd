@@ -50,19 +50,19 @@ image: $assets.files.linkedin.png
 
 -- social.social-button-wrapper:
 link: https://twitter.com/devnishant10
-image: $assets.files.twitter.png
+image: $assets.twitter.png
 
 -- social.social-button-wrapper:
 link: https://github.com/nishantjain10
-image: $assets.files.github.png
+image: $assets.github.png
 
 -- social.social-button-wrapper:
 link: https://www.instagram.com/nishant.jain_10/
-image: $assets.files.instagram.png
+image: $assets.instagram.png
 
 -- social.social-button-wrapper:
 link: https://drive.google.com/file/d/1RUDX-HDdgsrd-XbBEj1Yv-VfWuW_lQMA/view?usp=sharing
-image: $assets.files.clipboard-list.png
+image: $assets.clipboard-list.png
 
 
 -- end: ftd.row
