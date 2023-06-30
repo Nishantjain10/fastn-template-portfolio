@@ -4,5 +4,7 @@
 -- fastn.dependency: gargajit.github.io/expander
 -- fastn.dependency: fifthtry.github.io/admonitions
 -- fastn.dependency: fastn-community.github.io/winter-cs
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
 
 -- fastn.auto-import: fastn-portfolio/assets
+-- fastn.auto-import: package
