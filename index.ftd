@@ -62,7 +62,7 @@ image: $assets.instagram.png
 
 -- social.social-button-wrapper:
 link: https://drive.google.com/file/d/1RUDX-HDdgsrd-XbBEj1Yv-VfWuW_lQMA/view?usp=sharing
-image: $assets.clipboard-list.png
+image: $assets.clipboard.png
 
 
 -- end: ftd.row
