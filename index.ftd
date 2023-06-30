@@ -11,7 +11,7 @@
 
 
 -- ds.page: Hello, I’m Nishant Jain.
-site-logo: $assets.files.images.logo.svg 
+/site-logo: $assets.files.images.logo.svg 
 /colors: $winter-cs.main
 /height: fill-container
 
